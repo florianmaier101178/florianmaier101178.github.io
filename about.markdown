@@ -3,16 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm an experienced software engineer, born in 1978, living in Illertissen, Bavaria, Germany. 
+I am married and the proud father of a son.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am currently employed by Liebherr, working on backend systems for their digitalization department.
+Previously I have worked for Daimler TSS, canotis it technologies, proway GmbH and tiscon infosys.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I spend most of my free time with my family. Besides computer topics, I am very interested in basketball and music.
+I follow the [NBA][NBA] and have been a season ticket holder for [ratiopharm Ulm][ratiopharm Ulm] for several years.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[NBA]: https://nba.com
+[ratiopharm Ulm]: https://ratiopharmulm.com
